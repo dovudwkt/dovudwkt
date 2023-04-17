@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=dovudwkt&show_icons=true&locale=en&count_private=true&hide=issues,contribs
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dovudwkt&show_icons=true&locale=en&count_private=true&hide=issues,contribs
+" alt="dovudwkt" /></p>
+
